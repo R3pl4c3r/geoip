@@ -36,7 +36,7 @@
       }
     },
     {
-      "type": "clashRuleSetClassical",
+      "type": "surgeRuleSet",
       "action": "add",
       "args": {
         "name": "apple_services",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "type": "clashRuleSetClassical",
+      "type": "surgeRuleSet",
       "action": "add",
       "args": {
         "name": "cdn",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "type": "clashRuleSetClassical",
+      "type": "surgeRuleSet",
       "action": "add",
       "args": {
         "name": "cn",
@@ -60,7 +60,7 @@
       }
     },
     {
-      "type": "clashRuleSetClassical",
+      "type": "surgeRuleSet",
       "action": "add",
       "args": {
         "name": "download",
@@ -68,7 +68,7 @@
       }
     },
     {
-      "type": "clashRuleSetClassical",
+      "type": "surgeRuleSet",
       "action": "add",
       "args": {
         "name": "lan",
@@ -76,7 +76,7 @@
       }
     },
     {
-      "type": "clashRuleSetClassical",
+      "type": "surgeRuleSet",
       "action": "add",
       "args": {
         "name": "reject",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "type": "clashRuleSetClassical",
+      "type": "surgeRuleSet",
       "action": "add",
       "args": {
         "name": "stream",
